@@ -1,0 +1,8 @@
+the time for ExponentialTetranacci(5): 48375 nanoseconds
+the time for ExponentialTetranacci(10): 40864 nanoseconds
+the time for ExponentialTetranacci(15): 237972 nanoseconds
+the time for ExponentialTetranacci(20): 490966 nanoseconds
+the time for ExponentialTetranacci(25): 7295087 nanoseconds
+the time for ExponentialTetranacci(30): 177750268 nanoseconds
+the time for ExponentialTetranacci(35): 4415976539 nanoseconds
+the time for ExponentialTetranacci(40): 117298311063 nanoseconds
